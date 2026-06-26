@@ -1,9 +1,6 @@
-# ============================================================
 # AI Resume Analyzer
 # Built with Python, NLP & Streamlit
 # Tech: TF-IDF, Cosine Similarity, NLTK, PyPDF2, Matplotlib
-# ============================================================
-
 import streamlit as st
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
